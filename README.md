@@ -1,8 +1,11 @@
-# Sample Hardhat Project
+# Whitelist DAapp 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+> This project shows the demonstration of the whitelisting the accounts to a smart contract. This can be used in various applications of the web3 space. It allows admin to grant access to only perticular people.
 
-Try running some of the following tasks:
+---
+
+## Try running some of the following tasks:
+> you can also try implementing using YARN
 
 ```shell
 npx hardhat help
